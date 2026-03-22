@@ -8,7 +8,7 @@ Driver’s license numbers
 Credit card numbers
 Texas vehicle license plates
 Placeholder values for date and municipality name
-⚙️ Files Included
+Files Included:
 assign2.bash
 Main executable script. Handles input files and invokes sed.
 assign2.sed
